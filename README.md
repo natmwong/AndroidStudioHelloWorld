@@ -28,7 +28,7 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The tutorial videos used an outdated version of Android Studio, so some directions were inaccurate to the version I used. I learned that I had to create an "Empty Views Activity" rather than an "Empty Activity" project when choosing what type of project to make.
 
 ## License
 
